@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A Engineer</h3>
-Studying Final Year @ UVCE. Working on Tech, Hardware Hacking, AI, Edge Computing.
+<h3 align="center">Pursuing Law Primarily and A Engineer</h3>
+Law Student and Graduate Engineering in Electronics and Communication @ UVCE Working on Tech, Hardware Hacking, AI, Edge Computing.
 
 
 Reach me here: mohammedhamza6174@gmail.com
